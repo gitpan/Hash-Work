@@ -2,7 +2,7 @@ package Hash::Work; # Several static functions to manipulate hash-arrays
 
 
 
-our $VERSION='0.01';
+our $VERSION='0.02';
 
 # This class provides several static methods to manipulate hashes.
 # Some of this methods you can also find in different modules, but
